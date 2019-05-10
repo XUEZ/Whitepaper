@@ -1,0 +1,2 @@
+# Whitepaper
+Xuez Project Whitepaper
